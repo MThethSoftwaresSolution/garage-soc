@@ -18,9 +18,7 @@
     "fastify-plugin": "^1.6.0",
     "fastify-rate-limit": "^2.2.0",
     "fastify-sensible": "^2.1.1",
-    "socket.io": "^2.4.1"
-  },
-  "devDependencies": {
+    "socket.io": "^2.4.1",
     "nodemon": "^2.0.4"
   }
 }
